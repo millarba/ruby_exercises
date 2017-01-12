@@ -56,6 +56,6 @@ manager = Manager.new(
                       )
 
 p manager
-
+manager.print_info
 
 
